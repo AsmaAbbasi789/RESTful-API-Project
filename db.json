@@ -1,0 +1,29 @@
+{
+  "postsData": [
+    {
+      "title": "Art of Minimalism",
+      "body": "Explore the philosophy of minimalism and learn how simplifying your life can lead to greater focus, productivity, and a sense of purpose.",
+      "id": 1
+    },
+    {
+      "title": "Navigating the Remote Work Landscape",
+      "body": "Discover effective strategies for remote work success, from setting up a productive home office to maintaining work-life balance in a digital world.",
+      "id": 2
+    },
+    {
+      "title": " Mysteries of Quantum",
+      "body": "Delve into the fascinating world of quantum computing, understanding its principles, potential applications, and the groundbreaking advancements in this cutting-edge technology.",
+      "id": 3
+    },
+    {
+      "title": "Mindfulness in a Hectic World",
+      "body": "Learn practical mindfulness techniques to bring calm and clarity into your daily life, regardless of the chaos around you, fostering mental well-being.",
+      "id": 4
+    },
+    {
+      "title": "Rise of Sustainable Living",
+      "body": "Explore the global movement towards sustainable living, covering eco-friendly practices, renewable energy solutions, and how individuals can contribute to a greener future.",
+      "id": 5
+    }
+  ]
+}
